@@ -1,0 +1,8 @@
+twitch:
+  password: 
+  channel: 
+  username: 
+  server: irc.chat.twitch.tv
+  port: 6667
+api:
+    JWT_token: 
