@@ -1,1 +1,1 @@
-PyYAML==3.14
+PyYAML==5.1
